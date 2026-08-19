@@ -1,4 +1,4 @@
-import { Box, Cpu, Wrench, TerminalSquare } from 'lucide-react'
+import { Box, Cpu, Wrench, SquareTerminal as TerminalSquare } from 'lucide-react'
 import { skillGroups } from '@/lib/portfolio-data'
 import { SectionHeading } from '@/components/section-heading'
 
