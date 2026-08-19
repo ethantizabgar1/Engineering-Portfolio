@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Hall-effect sensors and magnets for position feedback">
+  <rect width="800" height="600" fill="oklch(0.21 0.022 245)"/>
+  <defs><pattern id="g4" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="oklch(0.74 0.13 215 / 0.10)" stroke-width="1"/></pattern></defs>
+  <rect width="800" height="600" fill="url(#g4)"/>
+  <g stroke="oklch(0.74 0.13 215)" fill="none" stroke-width="2" opacity="0.9">
+    <rect x="260" y="200" width="70" height="220" rx="10"/>
+    <line x1="260" y1="290" x2="330" y2="290"/>
+  </g>
+  <g fill="oklch(0.74 0.13 215 / 0.3)" stroke="oklch(0.74 0.13 215)" stroke-width="1.5">
+    <rect x="340" y="280" width="24" height="20" rx="2"/>
+    <rect x="340" y="400" width="24" height="20" rx="2"/>
+  </g>
+  <g fill="oklch(0.95 0.008 240 / 0.7)" stroke="oklch(0.74 0.13 215)" stroke-width="1">
+    <rect x="236" y="284" width="14" height="12" rx="1"/>
+    <rect x="236" y="404" width="14" height="12" rx="1"/>
+  </g>
+  <g stroke="oklch(0.74 0.13 215 / 0.5)" fill="none" stroke-width="1" stroke-dasharray="3 3">
+    <line x1="250" y1="290" x2="340" y2="290"/>
+    <line x1="250" y1="410" x2="340" y2="410"/>
+  </g>
+  <g stroke="oklch(0.74 0.13 215 / 0.8)" fill="none" stroke-width="1">
+    <rect x="480" y="240" width="200" height="160" rx="6"/>
+    <text x="580" y="328" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="oklch(0.74 0.13 215 / 0.8)">A0  A1</text>
+    <text x="580" y="352" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" fill="oklch(0.68 0.015 240)">HALL-OUT</text>
+  </g>
+  <text x="400" y="570" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" fill="oklch(0.68 0.015 240)" letter-spacing="3">FIG. 04 — HALL-EFFECT POSITION SENSING</text>
+</svg>

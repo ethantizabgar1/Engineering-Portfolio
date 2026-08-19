@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Arduino Uno R4 WiFi board">
+  <rect width="800" height="600" fill="oklch(0.21 0.022 245)"/>
+  <defs><pattern id="g5" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="oklch(0.74 0.13 215 / 0.10)" stroke-width="1"/></pattern></defs>
+  <rect width="800" height="600" fill="url(#g5)"/>
+  <g stroke="oklch(0.74 0.13 215)" fill="oklch(0.74 0.13 215 / 0.06)" stroke-width="2">
+    <rect x="200" y="200" width="400" height="200" rx="10"/>
+  </g>
+  <g stroke="oklch(0.74 0.13 215 / 0.7)" fill="none" stroke-width="1.5">
+    <rect x="230" y="230" width="80" height="50" rx="3"/>
+    <rect x="490" y="230" width="80" height="50" rx="3"/>
+    <rect x="330" y="320" width="140" height="50" rx="3"/>
+  </g>
+  <g fill="oklch(0.95 0.008 240 / 0.5)">
+    <circle cx="250" cy="300" r="4"/><circle cx="270" cy="300" r="4"/><circle cx="290" cy="300" r="4"/>
+    <circle cx="310" cy="300" r="4"/><circle cx="330" cy="300" r="4"/><circle cx="350" cy="300" r="4"/>
+    <circle cx="450" cy="300" r="4"/><circle cx="470" cy="300" r="4"/><circle cx="490" cy="300" r="4"/>
+    <circle cx="510" cy="300" r="4"/><circle cx="530" cy="300" r="4"/><circle cx="550" cy="300" r="4"/>
+  </g>
+  <text x="400" y="420" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="oklch(0.74 0.13 215 / 0.8)" letter-spacing="2">ARDUINO UNO R4 WiFi</text>
+  <text x="400" y="570" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" fill="oklch(0.68 0.015 240)" letter-spacing="3">FIG. 05 — MICROCONTROLLER BOARD</text>
+</svg>
